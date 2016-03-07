@@ -55,8 +55,8 @@ $left-background-light: #DADEE3;
 $body: #F4F5F7;
 
 // Border Colors
-$grey-border: #D1D6DC;
-$grey-border-light: lighten($grey-border,6%);
+$grey-border: $red;
+$grey-border-light: lighten($red,6%);
 
 // Icon Colors
 $grey-icon: #57626C;
