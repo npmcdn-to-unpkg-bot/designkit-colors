@@ -6,76 +6,76 @@
 // --------------------------------------------------
 
 // Generic Grayscale Colors
-$black-10: darken(#fff, 10%);
-$black-20: darken(#fff, 20%);
-$black-30: darken(#fff, 30%);
-$black-40: darken(#fff, 40%);
-$black-50: darken(#fff, 50%);
-$black-60: darken(#fff, 60%);
-$black-70: darken(#fff, 70%);
-$black-80: darken(#fff, 80%);
-$black-90: darken(#fff, 90%);
+$black-10: $red;
+$black-20: $red;
+$black-30: $red;
+$black-40: $red;
+$black-50: $red;
+$black-60: $red;
+$black-70: $red;
+$black-80: $red;
+$black-90: $red;
 
 // Brand Colors
-$green: #80C11A;
-$blue: #0A83F6;
-$red: #C32525;
-$purple: #7355A6;
-$orange: #F7A626;
+$red: $red;
+$green: $red;
+$blue: $red;
+$purple: $red;
+$orange: $red;
 
 // Graph Colors
-$viking: #4FBBCD;
-$royal-purple: #7355A6;
-$mulberry: #C45887;
-$buckthorn: #F7A626;
-$celery: #B4CB55;
-$indian: #D05A5A;
-$silver-tree: #5DD08B;
-$sean: #3C8CC7;
+$viking: $red;
+$royal-purple: $red;
+$mulberry: $red;
+$buckthorn: $red;
+$celery: $red;
+$indian: $red;
+$silver-tree: $red;
+$sean: $red;
 
 // Button Colors
-$green-button: #5fb000;
-$blue-button: #0871d4;
-$red-button: #C32525;
-$grey-button: #E7E7E7;
+$green-button: $red;
+$blue-button: $red;
+$red-button: $red;
+$grey-button: $red;
 $default-button: $grey-button;
 $primary-button: $green-button;
 $secondary-button: $blue-button;
 $destructive-button: $red-button;
 
 // Text Colors
-$link: #0A83F6;
-$link-hover: darken(#0A83F6, 10%);
-$text: #76899A;
-$heading: #57626C;
+$link: $red;
+$link-hover: darken($red;, 10%);
+$text: $red;
+$heading: $red;
 
 // Section Colors
-$left-background-dark: #353B41;
-$left-background-light: #DADEE3;
-$body: #F4F5F7;
+$left-background-dark: $red;
+$left-background-light: $red;
+$body: $red;
 
 // Border Colors
 $grey-border: $red;
 $grey-border-light: lighten($red,6%);
 
 // Icon Colors
-$grey-icon: #57626C;
-$grey-icon-highlight: #A2AFBA;
-$blue-icon: #2390F7;
-$blue-icon-highlight: #54A9F9;
-$green-icon: #80C11A;
-$sith-icon: #30373C;
+$grey-icon: $red;
+$grey-icon-highlight: $red;
+$blue-icon: $red;
+$blue-icon-highlight: $red;
+$green-icon: $red;
+$sith-icon: $red;
 
 // Highlight Colors
-$hover-highlight: #FAFAFA;
-$select-highlight: #FAFAFA;
-$inline-highlight: #E2E5E9;
+$hover-highlight: $red;
+$select-highlight: $red;
+$inline-highlight: $red;
 
 // Messaging Colors
-$messaging-background: #FFF7E5;
-$messaging-text: #939182;
+$messaging-background: $red;
+$messaging-text: $red;
 
 // Header Colors
-$header-flat: #0069CC;
-$header-gradient-start: #076CCA;
-$header-gradient-end: #065BAC;
+$header-flat: $red;
+$header-gradient-start: $red;
+$header-gradient-end: $red;
