@@ -5,6 +5,8 @@
 // COLOR VARIABLES
 // --------------------------------------------------
 
+$red: #c50000;
+
 // Generic Grayscale Colors
 $black-10: $red;
 $black-20: $red;
@@ -17,7 +19,6 @@ $black-80: $red;
 $black-90: $red;
 
 // Brand Colors
-$red: $red;
 $green: $red;
 $blue: $red;
 $purple: $red;
@@ -45,7 +46,7 @@ $destructive-button: $red-button;
 
 // Text Colors
 $link: $red;
-$link-hover: darken($red;, 10%);
+$link-hover: darken($red, 10%);
 $text: $red;
 $heading: $red;
 
